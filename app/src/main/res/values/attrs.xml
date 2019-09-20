@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NumberPickAttrs">
+        <attr name="setNumber" format="reference|string" />
+        <attr name="setTitle" format="reference|string" />
+        <attr name="setPickTag" format="reference|string" />
+    </declare-styleable>
+</resources>
